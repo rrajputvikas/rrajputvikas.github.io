@@ -1,6 +1,6 @@
-[![MasterHead](./Group 1.png)](https://rrajputvikas.io)
+<img align="center" alt="Coding" width="100%" src="https://github.com/rrajputvikas/rrajputvikas.github.io/blob/main/Group%201.png">
 <h1 align="center">Hi 👋, I'm Vikas Rajput</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rrajputvikas&label=Profile%20views&color=0e75b6&style=flat" alt="rrajputvikas" /> </p>
